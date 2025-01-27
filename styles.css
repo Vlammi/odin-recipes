@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(163,231,253);
+    text-align: center;
+}
+#home-button{
+    font-size: 20px;
+}
+
+.heading{
+    font-weight: bold;
+    color:blue;
+}
+.name{
+    color: black
+}
