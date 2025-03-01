@@ -13,3 +13,25 @@ body{
 .name{
     color: black
 }
+.mainpage-header{
+    text-align: center;
+}
+#welcome-text{
+    width:200px;
+    margin: auto;
+    margin-bottom: 20px;
+    font-size: large;
+}
+.recipe-menu{
+    text-align: center;
+    background-color: white;
+    margin: auto;
+    padding: 32px;
+    width: 750px;
+    background-color: rgb(228, 228, 228);
+}
+.recipe-link{
+    text-align: center;
+    display:block;
+    margin-bottom:15px;
+}
